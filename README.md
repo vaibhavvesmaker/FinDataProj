@@ -79,4 +79,5 @@ For questions, feedback, or support, please feel free to contact me:
 ---
 
 This **Financial Analytics and Dashboard Solution** is an adaptable framework for financial analysis, offering valuable insights for stakeholders and decision-makers. Let’s analyze and grow together!  
+This is a pert to update, rebuild, focus and learn the domain of Data Analytics
 
