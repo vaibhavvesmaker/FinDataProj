@@ -4,7 +4,7 @@ The **Financial Analytics Project** is a comprehensive solution designed to anal
  
 ---
  
-## **Project Structure** 
+## **Project Structure**  
 
 This project follows a systematic approach to ensure data accuracy and insightful analysis: 
 
