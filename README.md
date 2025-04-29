@@ -9,7 +9,7 @@ The **Financial Analytics Project** is a comprehensive solution designed to anal
 This project follows a systematic approach to ensure data accuracy and insightful analysis: 
    
 1. **Data Import**:  
-   - Extracted financial sales data from **UNIFIED MENTOR** and imported it into Power BI for processing.  
+   - Extracted financial sales data from **UNIFIED MENTOR** and imported it into Power BI for processing.   
  
 2. **Data Transformation**:  
    - Cleaned the dataset using **Power Query** by removing null values, duplicates, and applying appropriate data type conversions.  
