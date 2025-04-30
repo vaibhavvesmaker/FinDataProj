@@ -2,7 +2,7 @@
 
 The **Financial Analytics Project** is a comprehensive solution designed to analyze the financial sales data of the top 500 companies in India. This project encompasses the full data lifecycle, including ETL (Extract, Transform, Load) processes, advanced financial calculations, and the development of interactive dashboards in Power BI to facilitate insightful decision-making.
   
----
+--- 
  
 ## **Project Structure**  
 
